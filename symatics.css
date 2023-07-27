@@ -1,0 +1,18 @@
+html{
+    background-color:antiquewhite
+}
+.div1{
+    height:50px;
+    width:100%;
+    background-color:aliceblue;
+}
+li{
+    display:inline;
+    padding-right: 20px;
+}
+.login{
+    float: right;
+}
+.signup{
+    float:right;
+}

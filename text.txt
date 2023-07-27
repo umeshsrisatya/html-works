@@ -1,0 +1,14 @@
+ENTER YOUR NAME
+ENTER EMAIl
+ENTER DOB
+ENTER GENDER
+MALE
+FEMALE
+select the range: 
+choose the color
+UPLOAD A PHOTO
+select your college
+AEC
+ACET
+ACOE
+select yes or no<
